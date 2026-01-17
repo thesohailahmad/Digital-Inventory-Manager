@@ -23,4 +23,4 @@ It is a console-based Digital Inventory Manager.
    python inventory_manager.py
 
 ## Author
-Sohail Awan
+Sohail Ahmad
